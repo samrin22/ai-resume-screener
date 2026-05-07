@@ -1,4 +1,4 @@
-\# 🤖 AI Resume Screener
+AI Resume Screener
 
 
 
@@ -6,7 +6,7 @@ This project compares a resume with a job description and gives a match score.
 
 
 
-\## 🚀 Features
+Features
 
 \- Match Score %
 
@@ -16,7 +16,7 @@ This project compares a resume with a job description and gives a match score.
 
 
 
-\## 🛠 Tech Stack
+Tech Stack
 
 \- Python
 
@@ -25,8 +25,7 @@ This project compares a resume with a job description and gives a match score.
 \- Scikit-learn
 
 
-
-\## ▶️ Run
+Run
 
 streamlit run app.py
 
